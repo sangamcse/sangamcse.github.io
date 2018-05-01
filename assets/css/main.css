@@ -1182,6 +1182,15 @@ a.newer-posts:hover {
 .wrap-content {
   padding: 20px;
 }
+.wrap-content p > a {
+  border-bottom: 1px dotted rgb(162, 162, 162);
+  color: rgb(34, 34, 34);
+  text-decoration: none;
+}
+
+.wrap-content p > a:hover {
+  border-bottom-style: solid;
+}
 
 .header-page {
   text-align: center;
@@ -1206,13 +1215,21 @@ a.newer-posts:hover {
   padding: 0;
   margin: 0;
   max-height: 500px;
-  background-color: #fafafa;
+  background-color: #ffffff;
   overflow: hidden;
 }
 
-.page-cover-image .page-image {
+.page-cover-image {
   width: 100%;
   height: 100%;
+}
+
+.page-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: auto;
 }
 
 .page-footer {
