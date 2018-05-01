@@ -1182,13 +1182,13 @@ a.newer-posts:hover {
 .wrap-content {
   padding: 20px;
 }
-.wrap-content p > a {
+.wrap-content p > a, .about p > a {
   border-bottom: 1px dotted rgb(162, 162, 162);
   color: rgb(34, 34, 34);
   text-decoration: none;
 }
 
-.wrap-content p > a:hover {
+.wrap-content p > a:hover, .about p > a:hover {
   border-bottom-style: solid;
 }
 
