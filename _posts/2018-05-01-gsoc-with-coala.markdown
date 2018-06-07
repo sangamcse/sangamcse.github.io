@@ -27,7 +27,6 @@ different project on GitHub in 2017.
 
 > To celebrate your contributions and a spectacular year together, let’s look
 back at the projects, people, and teams of 2017.
-
 >> [https://octoverse.github.com](https://octoverse.github.com)
 
 ---
