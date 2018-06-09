@@ -7,9 +7,6 @@ img: coala.png
 tags: [GSoC, coala, community-bonding]
 ---
 
-To know about [coala](https://coala.io), go through the
-[gsoc-with-coala](http://www.meetsangamcse.me/gsoc-with-coala/) post.
-
 ## Project abstract
 
 The aim of the project is to improve linter bears in coala by improving the
