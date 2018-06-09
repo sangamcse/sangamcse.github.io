@@ -1,11 +1,14 @@
 ---
 layout: post
-title: GSoC'18 Post#1: Community bonding ends
+title: "GSoC'18 Post#1: Community bonding ends"
 date: 2018-06-07 00:57:20 +0530
 description: Community bonding of Google Summer of Code 2018.
 img: coala.png
 tags: [GSoC, coala, community-bonding]
 ---
+
+To know about [coala](https://coala.io), go through the
+[gsoc-with-coala](http://www.meetsangamcse.me/gsoc-with-coala/) post.
 
 ## Project abstract
 
