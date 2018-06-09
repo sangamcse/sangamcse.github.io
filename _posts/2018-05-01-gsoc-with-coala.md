@@ -79,4 +79,3 @@ any queries/questions regarding GSoC and I’ll be more than happy to answer
 them.
 
 Thats all folks ! Stay tuned.
-

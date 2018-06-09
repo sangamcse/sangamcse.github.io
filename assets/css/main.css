@@ -1121,7 +1121,7 @@ footer .copyright {
 }
 
 .post .post-thumbnail {
-  width: 30%;
+  width: 20%;
   max-width: 100%;
   min-height: 11rem;
   -webkit-background-size: cover;
@@ -1182,13 +1182,17 @@ a.newer-posts:hover {
 .wrap-content {
   padding: 20px;
 }
-.wrap-content p > a, .about p > a {
+.wrap-content p > a,
+.about p > a,
+.wrap-content li > a {
   border-bottom: 1px dotted rgb(162, 162, 162);
-  color: rgb(34, 34, 34);
+  color: #515151;
   text-decoration: none;
 }
 
-.wrap-content p > a:hover, .about p > a:hover {
+.wrap-content p > a:hover,
+.about p > a:hover,
+.wrap-content li > a:hover {
   border-bottom-style: solid;
 }
 

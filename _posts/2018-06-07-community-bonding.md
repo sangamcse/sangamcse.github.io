@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSoC'18 Post#1: Community bonding ends"
+title: "GSoC '18 Post #1: Community bonding ends"
 date: 2018-06-07 00:57:20 +0530
 description: Community bonding of Google Summer of Code 2018.
 img: coala.png
@@ -28,7 +28,7 @@ and enhancing the documentation for coala API and coala-bears.
 
 [`Linter Bears`](http://api.coala.io/en/latest/Developers/Writing_Linter_Bears.html)
 word is a combination of the two terminologies: Linter and Bears.
-[Linter](https://en.wikipedia.org/wiki/Lint_(software)) is a tool that analyze
+[Linter](https://en.wikipedia.org/wiki/Lint_(software)) is a tool that analyses
 source code to flag programming errors, bugs, stylistic errors, and suspicious
 constructs. Bears in coala is meant to do some analysis on source code. It can
 check your code for potential problems, calculate metrics and even provide
@@ -50,6 +50,17 @@ The Milestones of my Project during Community Bonding Period are:
 , [Gitter room](https://gitter.im) and
 [devlogs](http://www.meetsangamcse.me/project-track/).
 - Make a [coala Enhancement Proposal(cEP)](https://github.com/coala/cEPs/pull/149)
-of coala Testing API and get it merged.
+of coala's Bears Testing API and get it merged.
 - Get assigned to all the issues of the project and finalise tasks to be
 implemented in Coding Phase-I.
+
+## Conclusion
+
+On 14<sup>th</sup> May, the community bonding has come to an end and I've
+nearly managed to complete my milestone. My earlier contributions to coala
+helped me to get knowledge about the [`linter` class](http://api.coala.io/en/latest/coalib.bearlib.abstractions.html#module-coalib.bearlib.abstractions.Linter)
+of coala. It has been a wonderful time so far. I've managed to get
+[cEP-0027](https://github.com/coala/cEPs/blob/master/cEP-0027.md) merged.
+
+Thats all for community bonding !
+Stay tuned ! Till then, Happy Coding !
