@@ -44,3 +44,12 @@ simpler under a single roof.
 
 ## Community Bonding Period
 
+The Milestones of my Project during Community Bonding Period are:
+
+- Get in touch with the mentors via [Google Hangouts](https://hangouts.google.com/)
+, [Gitter room](https://gitter.im) and
+[devlogs](http://www.meetsangamcse.me/project-track/).
+- Make a [coala Enhancement Proposal(cEP)](https://github.com/coala/cEPs/pull/149)
+of coala Testing API and get it merged.
+- Get assigned to all the issues of the project and finalise tasks to be
+implemented in Coding Phase-I.
