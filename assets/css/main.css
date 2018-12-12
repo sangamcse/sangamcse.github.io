@@ -1351,6 +1351,18 @@ a.newer-posts:hover {
 }
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
+@media only screen and (min-width: 992px) and (max-width: 1100px) {
+
+  .post .post-thumbnail {
+    width: 30%;
+    max-width: 100%;
+    min-height: 11rem;
+    -webkit-background-size: cover;
+            background-size: cover;
+    background-position: 50% 50%;
+  }
+}
+
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
   .post {
@@ -1364,7 +1376,10 @@ a.newer-posts:hover {
             flex-direction: column;
   }
   .post .post-thumbnail {
-    width: 100%;
+    width: 90%;
+    height: 17rem;
+    display:inline-block;
+    margin: 0 auto;
   }
   .post .post-content {
     width: 100%;
@@ -1437,6 +1452,11 @@ a.newer-posts:hover {
   .contact-title, .copyright {
     display: none;
   }
+  .post .post-thumbnail {
+    width: 80%;
+    display:inline-block;
+    margin: 0 auto;
+  }
 }
 
 /* Extra Small Devices, Phones */
@@ -1455,7 +1475,9 @@ a.newer-posts:hover {
             flex-direction: column;
   }
   .post .post-thumbnail {
-    width: 100%;
+    width: 75%;
+    display:inline-block;
+    margin: 0 auto;
   }
   .post .post-content {
     width: 100%;
