@@ -1,12 +1,12 @@
 title: Sangam Kumar
-description: >
-  
+description: Software Development Engineer
+
 permalink: ':title/'
 site-twitter: meetsangamcse
 
 author: Sangam Kumar
 author-img: sangam.jpg
-about-author: Senior undergraduate | Pythonista | Learner
+about-author: (☕) => { 👨‍💻 }
 social-twitter: meetsangamcse
 social-facebook: meetsangamcse
 social-github: sangamcse
@@ -15,7 +15,7 @@ social-email: meetsangamcse@gmail.com
 
 subscribe_rss: /feed.xml
 
-discus-identifier: meetsangamcse 
+discus-identifier: meetsangamcse
 
 # Tracker
 analytics: UA-118439543-1
